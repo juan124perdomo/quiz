@@ -1,0 +1,38 @@
+[
+  {
+    "pregunta": "¿Qué lenguaje se usa para dar estilos a una página web?",
+    "respuestas": ["HTML", "CSS", "JavaScript", "Python"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál se ejecuta en el navegador?",
+    "respuestas": ["Node", "PHP", "JavaScript", "MySQL"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué etiqueta crea un botón?",
+    "respuestas": ["<btn>", "<button>", "<input>", "<click>"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué significa HTML?",
+    "respuestas": ["HyperText Markup Language", "Home Tool Markup Language", "Hyperlinks and Text Markup Language", "Hyper Tool Multi Language"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué propiedad de CSS cambia el color de texto?",
+    "respuestas": ["text-color", "font-color", "color", "background-color"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la etiqueta para insertar una imagen?",
+    "respuestas": ["<image>", "<img>", "<pic>", "<src>"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué símbolo se usa para comentarios en CSS?",
+    "respuestas": ["//", "<!-- -->", "/* */", "#"],
+    "correcta": 2
+  }
+  
+]
