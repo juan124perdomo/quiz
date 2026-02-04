@@ -8,7 +8,7 @@ let puntaje = 0;
 // =======================
 // CARGAR JSON (fetch)
 // =======================
-fetch("quiz.json")
+fetch("../data/quiz.json")
   .then(res => res.json())
   .then(data => {
     preguntas = data;
